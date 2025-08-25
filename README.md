@@ -45,7 +45,7 @@ This app generates **SEO-friendly blog titles, detailed blog content, and multil
 
 ```bash
 git clone https://github.com/KartikNimhan/End-to-End-Blog-Generation-Agentic-AI-App.git
-cd end-to-end-blog-generation-agentic-ai-app
+cd End-to-End-Blog-Generation-Agentic-AI-App
 ```
 
 ### 2️⃣ Create Virtual Environment
@@ -191,6 +191,7 @@ Pull requests are welcome! Please open an issue first to discuss changes.
 ## 📜 License
 
 MIT License © 2025
+
 
 
 
