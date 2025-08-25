@@ -44,7 +44,7 @@ This app generates **SEO-friendly blog titles, detailed blog content, and multil
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/end-to-end-blog-generation-agentic-ai-app.git
+git clone https://github.com/KartikNimhan/End-to-End-Blog-Generation-Agentic-AI-App.git
 cd end-to-end-blog-generation-agentic-ai-app
 ```
 
@@ -170,7 +170,6 @@ flowchart LR
 
 ### PNG Fallback (for docs/PDFs)
 
-![Blog Generation Flowchart](sandbox:/mnt/data/blog_generation_flowchart.png)
 
 ---
 
@@ -192,5 +191,6 @@ Pull requests are welcome! Please open an issue first to discuss changes.
 ## 📜 License
 
 MIT License © 2025
+
 
 
